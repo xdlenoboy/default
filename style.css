@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(backgroundroblox.jpg);   
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
